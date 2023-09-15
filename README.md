@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArpitMishra15 
 - 👀 I’m interested in Science, Space and Sports
-- 🌱 I’m currently learning DSA
+
 - 📫 How to reach me - arpitmishra0315@gmail.com
 
 <!---
