@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ArpitMishra15 
-- 👀 I’m interested in Science, Space and Sports
-
+- 👋 Hi, I’m Arpit Mishra 
 - 📫 How to reach me - arpitmishra0315@gmail.com
 
 <!---
